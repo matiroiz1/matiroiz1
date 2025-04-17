@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer · Apasionado por el Desarrollo de Software</h3>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/pc-code-coding-ENY5vJgJPEfG3Ym14H?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🚀+Construyendo+sistemas+escalables+y+eficientes;💡+Resolviendo+problemas+del+mundo+real;🎯+Aprendiendo+constantemente+y+disfrutando+el+proceso" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="coding-gif" />
 </p>
+
 
 ---
 
