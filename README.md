@@ -1,11 +1,6 @@
 <h1 align="center">👋 👋 Hey there! I'm Matías!</h1>
 <h3 align="center">Full Stack Developer · Passionate about Software Development & IT Solutions</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="coding-gif" />
-</p>
-
-
 ---
 
 ### 🎓 Academic Background
@@ -45,6 +40,12 @@
 
 - ✉️ roizmatias10@gmail.com  
 - 💼 https://www.linkedin.com/in/mati-roiz/  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="coding-gif" />
+</p>
 
 ---
 
