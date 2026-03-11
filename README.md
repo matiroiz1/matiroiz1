@@ -36,16 +36,10 @@
 
 ---
 
-### 🤝 ¡Conectemos!
+### 🤝 ¡Let's Connect!
 
 - ✉️ roizmatias10@gmail.com  
 - 💼 https://www.linkedin.com/in/mati-roiz/  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="coding-gif" />
-</p>
 
 ---
 
