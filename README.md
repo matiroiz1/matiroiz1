@@ -44,6 +44,6 @@
 ---
 
 <p align="center">
-  🔥 Siempre listo para nuevos desafíos y colaboraciones. ¡Construyamos algo genial juntos!
+  🔥 Always ready for new challenges and collaborations. Let's build something great together!
 </p>
 
