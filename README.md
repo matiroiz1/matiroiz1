@@ -26,16 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matiroiz1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiroiz1&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
----
-
 ### 🤝 ¡Let's Connect!
 
 - ✉️ roizmatias10@gmail.com  
